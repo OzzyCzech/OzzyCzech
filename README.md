@@ -7,4 +7,4 @@
 - [Zdrojak](https://www.zdrojak.cz/)
 - [Sphido CMS](https://sphido.org/)
 
-Email me 📫 at roman@omdesign.cz
+Email me 📫  at roman@omdesign.cz
