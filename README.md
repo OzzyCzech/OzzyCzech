@@ -5,6 +5,6 @@
 - [Testomato](https://www.testomato.com/)
 - [Zdrojak](https://www.zdrojak.cz/)
 - [Sphido CMS](https://sphido.org/)
-- [and more](https://omdesign.cz/work)
+- [and more](https://ozana.cz/work)
 
-Email me at roman@omdesign.cz
+Email me at roman@ozana.cz
