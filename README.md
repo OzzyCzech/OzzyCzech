@@ -4,7 +4,7 @@
 
 - [Testomato](https://www.testomato.com/)
 - [Zdrojak](https://www.zdrojak.cz/)
-- [Sphido CMS](https://sphido.org/)
+- [Sphido CMS](https://sphido.cz/)
 - [and more](https://ozana.cz/work)
 
 Email me at roman@ozana.cz
