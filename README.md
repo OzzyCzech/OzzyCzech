@@ -9,7 +9,7 @@ I'm excited to have you here! I'm passionate about building and creating things 
 - 🚀 [**Sphido**](https://sphido.cz/) – A rocket 🚀 fast, ️💭 lightweight and flexible static site 🤖 generator
 - 📂 [**And More...**](https://ozana.cz) – Explore more of my projects and adventures!
 
-### 📦 **NPM Packages I've Created:**
+### 📦 **Packages I've Created:**
 
 - 📅 [**International Days CS**](https://github.com/OzzyCzech/international-days-cs) – A comprehensive library for international days in Czech.
 - 📅 [**Easter Date**](https://github.com/OzzyCzech/easter-date) – A handy library to calculate the date of Easter.
