@@ -1,10 +1,23 @@
-### Hi there 👋
+## 👋 Hello and Welcome!
 
-### 🔭 I’m currently working on:
+I'm excited to have you here! I'm passionate about building and creating things that make a difference.
 
-- [Testomato](https://www.testomato.com/)
-- [Zdrojak.cz](https://www.zdrojak.cz/)
-- [Sphido](https://sphido.cz/)
-- [and more](https://ozana.cz)
+### 🔭 **Current Projects I'm Working On:**
 
-Email me at roman@ozana.cz
+- 🌐 [**Testomato.com**](https://www.testomato.com/) – Easy-to-use website monitoring and uptime monitoring service in one
+- 📰 [**Zdrojak.cz**](https://www.zdrojak.cz/) – Well-known Czech blog about web development
+- 🚀 [**Sphido**](https://sphido.cz/) – A rocket 🚀 fast, ️💭 lightweight and flexible static site 🤖 generator
+- 📂 [**And More...**](https://ozana.cz) – Explore more of my projects and adventures!
+
+### 📦 **Packages I've Created:**
+
+- 📅 [**International Days CS**](https://github.com/OzzyCzech/international-days-cs) – A comprehensive library for international days in Czech.
+- 📅 [**Easter Date**](https://github.com/OzzyCzech/easter-date) – A handy library to calculate the date of Easter.
+- 🎉 [**Namedays CS**](https://github.com/OzzyCzech/namedays-cs) – A library for handling Czech namedays data.
+- 🎨 [**Wticons**](https://github.com/OzzyCzech/wticons) – A collection of web technology icons for developers and designers.
+
+---
+
+💬 **Got questions, ideas, or just want to say hi?** Feel free to drop me an email at [roman@ozana.cz](mailto:roman@ozana.cz). I'd love to connect!
+
+Looking forward to building something great together! 🚀
