@@ -15,6 +15,7 @@ I'm excited to have you here! I'm passionate about building and creating things 
 - 📅 [**Easter Date**](https://github.com/OzzyCzech/easter-date) – A handy library to calculate the date of Easter.
 - 🎉 [**Namedays CS**](https://github.com/OzzyCzech/namedays-cs) – A library for handling Czech namedays data.
 - 🎨 [**Wticons**](https://github.com/OzzyCzech/wticons) – A collection of web technology icons for developers and designers.
+- ⌨️ [**Cmd Dialog**](https://github.com/OzzyCzech/cmd-dialog/) – Command dialog and keyboard shortcuts palette for web apps.
 
 ---
 
