@@ -7,7 +7,7 @@ I'm excited to have you here! I'm passionate about building and creating things 
 - 🍅 [**Testomato.com**](https://www.testomato.com/) – Easy-to-use website monitoring and uptime monitoring service in one
 - 📰 [**Zdrojak.cz**](https://www.zdrojak.cz/) – Well-known Czech blog about web development
 - 🚀 [**Sphido**](https://sphido.cz/) – A rocket 🚀 fast, ️💭 lightweight and flexible static site 🤖 generator
-- 📂 [**And More...**](https://ozana.cz) – Explore more of my projects and adventures!
+- 📂 [**And More...**](https://ozana.cz/projects) – Explore more of my projects and adventures!
 
 ### 📦 **Packages I've Created:**
 
