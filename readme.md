@@ -12,6 +12,7 @@ I'm excited to have you here! I'm passionate about building and creating things 
 ### 📦 **Packages I've Created:**
 
 - 👾 [**Diggy**](https://github.com/OzzyCzech/diggy/) - Diggy is multi-backend JavaScript DNS resolver
+- 🔒 [**SSLko**](https://github.com/OzzyCzech/sslko/) - Parse SSL/TLS certificate details from a remote host
 - 📅 [**International Days CS**](https://github.com/OzzyCzech/international-days-cs) – A comprehensive library for international days in Czech.
 - 📅 [**Easter Date**](https://github.com/OzzyCzech/easter-date) – A handy library to calculate the date of Easter.
 - 🎉 [**Namedays CS**](https://github.com/OzzyCzech/namedays-cs) – A library for handling Czech namedays data.
