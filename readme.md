@@ -40,10 +40,4 @@ I enjoy creating fast, useful, and minimal solutions for the web.
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OzzyCzech&show_icons=true&hide_title=true&count_private=true&theme=default)
-
----
-
 💬 Got an idea or just want to say hi? [roman@ozana.cz](mailto:roman@ozana.cz)
