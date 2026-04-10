@@ -16,7 +16,7 @@ I enjoy creating fast, useful, and minimal solutions for the web.
 - 🚀 **[Sphido](https://sphido.cz/)** – Fast and lightweight static site generator
 - 📓 **[ozzyczech.cz](https://ozzyczech.cz/)** –  My digital notebook — tools, tips & curated links for developers
 - 📰 **[Zdrojak.cz](https://www.zdrojak.cz/)** – Czech blog about web development
-- 📂 **[More projects](https://ozana.cz/projects)**
+- and 📂 **[More projects](https://ozana.cz/projects)**
 
 
 ### 📦 Open Source
