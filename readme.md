@@ -24,6 +24,3 @@ I'm excited to have you here! I'm passionate about building and creating things 
 💬 **Got questions, ideas, or just want to say hi?** Feel free to drop me an email at [roman@ozana.cz](mailto:roman@ozana.cz). I'd love to connect!
 
 Looking forward to building something great together! 🚀
-
-
-![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozzyczech&show_icons=true)
