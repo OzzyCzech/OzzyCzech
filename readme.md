@@ -1,15 +1,31 @@
 ## 👋 Hi, I'm Roman Ožana
 
-Developer, open-source builder, and creator of tools that scratch my own itch.
-Based in Czech Republic · [roman@ozana.cz](mailto:roman@ozana.cz) · [ozana.cz](https://ozana.cz)
+**Developer, open-source builder, and toolmaker.**  
+I enjoy creating fast, useful, and minimal solutions for the web.
 
-### 🔭 Projects
+📍 Czech Republic  
+✉️ [roman@ozana.cz](mailto:roman@ozana.cz)  
+🌐 https://ozana.cz
 
-- 🍅 [**Testomato.com**](https://www.testomato.com/) – Website monitoring and uptime service
-- 📰 [**Zdrojak.cz**](https://www.zdrojak.cz/) – Czech blog about web development
-- 🚀 [**Sphido**](https://sphido.cz/) – Fast, lightweight static site generator
-- 📓 [**ozzyczech.cz**](https://ozzyczech.cz/) – My digital notebook: tools, tips and links for web devs
-- 📂 [**More projects →**](https://ozana.cz/projects)
+---
+
+
+### 🔭 What I'm working on
+
+- 🍅 **[Testomato](https://www.testomato.com/)**  
+  Website monitoring & uptime service
+
+- 🚀 **[Sphido](https://sphido.cz/)**  
+  Fast and lightweight static site generator
+
+- 📓 **[ozzyczech.cz](https://ozzyczech.cz/)**  
+  My digital notebook — tools, tips & curated links for developers
+
+- 📰 **[Zdrojak.cz](https://www.zdrojak.cz/)**  
+  Czech blog about web development
+
+- 📂 **[More projects →](https://ozana.cz/projects)**
+
 
 ### 📦 Open Source
 
@@ -24,7 +40,7 @@ Based in Czech Republic · [roman@ozana.cz](mailto:roman@ozana.cz) · [ozana.cz]
 
 ---
 
-### 📊 Stats
+### 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OzzyCzech&show_icons=true&hide_title=true&count_private=true&theme=default)
 
