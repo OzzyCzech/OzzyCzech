@@ -30,6 +30,4 @@ I enjoy creating fast, useful, and minimal solutions for the web.
 - 🎨 [**Wticons**](https://github.com/OzzyCzech/wticons) – A collection of web technology icons for developers and designers.
 - ⌨️ [**Cmd Dialog**](https://github.com/OzzyCzech/cmd-dialog/) – Command dialog and keyboard shortcuts palette for web apps.
 
----
-
 💬 Got an idea or just want to say hi? [roman@ozana.cz](mailto:roman@ozana.cz)
