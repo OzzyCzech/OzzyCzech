@@ -1,16 +1,19 @@
-## 👋 Hello and Welcome!
+## 👋 Hi, I'm Roman Ožana
 
-I'm excited to have you here! I'm passionate about building and creating things that make a difference.
+Developer, open-source builder, and creator of tools that scratch my own itch.
+Based in Czech Republic · [roman@ozana.cz](mailto:roman@ozana.cz) · [ozana.cz](https://ozana.cz)
 
-### 🔭 **Current Projects I'm Working On:**
+### 🔭 Projects
 
-- 🍅 [**Testomato.com**](https://www.testomato.com/) – Easy-to-use website monitoring and uptime monitoring service in one
-- 📰 [**Zdrojak.cz**](https://www.zdrojak.cz/) – Well-known Czech blog about web development
-- 🚀 [**Sphido**](https://sphido.cz/) – A rocket 🚀 fast, ️💭 lightweight and flexible static site 🤖 generator
-- 📂 [**And More...**](https://ozana.cz/projects) – Explore more of my projects and adventures!
+- 🍅 [**Testomato.com**](https://www.testomato.com/) – Website monitoring and uptime service
+- 📰 [**Zdrojak.cz**](https://www.zdrojak.cz/) – Czech blog about web development
+- 🚀 [**Sphido**](https://sphido.cz/) – Fast, lightweight static site generator
+- 📓 [**ozzyczech.cz**](https://ozzyczech.cz/) – My digital notebook: tools, tips and links for web devs
+- 📂 [**More projects →**](https://ozana.cz/projects)
 
-### 📦 **Packages I've Created:**
+### 📦 Open Source
 
+- 💻 [**dotfiles**](https://github.com/OzzyCzech/dotfiles) | macOS dotfiles & setup | ⭐ 135 |
 - 👾 [**Diggy**](https://github.com/OzzyCzech/diggy/) - Diggy is multi-backend JavaScript DNS resolver
 - 🔒 [**SSLko**](https://github.com/OzzyCzech/sslko/) - Parse SSL/TLS certificate details from a remote host
 - 📅 [**International Days CS**](https://github.com/OzzyCzech/international-days-cs) – A comprehensive library for international days in Czech.
@@ -21,6 +24,10 @@ I'm excited to have you here! I'm passionate about building and creating things 
 
 ---
 
-💬 **Got questions, ideas, or just want to say hi?** Feel free to drop me an email at [roman@ozana.cz](mailto:roman@ozana.cz). I'd love to connect!
+### 📊 Stats
 
-Looking forward to building something great together! 🚀
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OzzyCzech&show_icons=true&hide_title=true&count_private=true&theme=default)
+
+---
+
+💬 Got an idea or just want to say hi? [roman@ozana.cz](mailto:roman@ozana.cz)
