@@ -29,5 +29,8 @@ I enjoy creating fast, useful, and minimal solutions for the web.
 - 🎉 [**Namedays CS**](https://github.com/OzzyCzech/namedays-cs) – A library for handling Czech namedays data.
 - 🎨 [**Wticons**](https://github.com/OzzyCzech/wticons) – A collection of web technology icons for developers and designers.
 - ⌨️ [**Cmd Dialog**](https://github.com/OzzyCzech/cmd-dialog/) – Command dialog and keyboard shortcuts palette for web apps.
+- 🚀 [**ftpsync**](https://github.com/OzzyCzech/ftpsync) – Fast hash-based FTP/FTPS deploy tool in Rust — uploads only changed files, no SSH needed.
+- 🍞 [**Toastik**](https://github.com/OzzyCzech/toastik) – Lightweight, dependency-free toast notification component for Vue 3.
+- 📄 [**mreader**](https://github.com/OzzyCzech/mreader) – Extract clean Markdown from any URL.
 
 💬 Got an idea or just want to say hi? [roman@ozana.cz](mailto:roman@ozana.cz)
