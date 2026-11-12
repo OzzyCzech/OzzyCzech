@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Roman O&#382;ana&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 433, Total Commits  (last year) : 2003, Total PRs: 128, Total Issues: 100, Contributed to (last year): 15</desc>
+        <desc id="descId">Total Stars Earned: 433, Total Commits  (last year) : 2004, Total PRs: 128, Total Issues: 100, Contributed to (last year): 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 23.029705855114038;
+        stroke-dashoffset: 23.029256572290464;
       }
     }
   
