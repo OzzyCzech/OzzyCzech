@@ -68,12 +68,7 @@ I write about web development, DevOps and security for [Zdroják.cz](https://zdr
 - and 📚 **[all articles](https://zdrojak.cz/autori/roman-ozana/)**
 
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="./profile/stats.svg" alt="Roman Ožana's GitHub stats" height="165" />
-  <img src="./profile/top-langs.svg" alt="Top languages" height="165" />
-</p>
+### 📈 Commit History
 
 <a href="https://commit-history.com/OzzyCzech">
   <picture>
