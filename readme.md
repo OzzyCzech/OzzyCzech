@@ -75,4 +75,11 @@ I write about web development, DevOps and security for [Zdroják.cz](https://zdr
   <img src="./profile/top-langs.svg" alt="Top languages" height="165" />
 </p>
 
+<a href="https://commit-history.com/OzzyCzech">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/OzzyCzech?theme=dark" />
+    <img alt="Roman Ožana's commit history" src="https://commit-history.com/embed/OzzyCzech" />
+  </picture>
+</a>
+
 💬 Got an idea or just want to say hi? [roman@ozana.cz](mailto:roman@ozana.cz)
